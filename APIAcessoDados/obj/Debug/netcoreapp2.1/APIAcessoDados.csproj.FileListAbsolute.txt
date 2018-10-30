@@ -1,0 +1,14 @@
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\bin\Debug\netcoreapp2.1\APIAcessoDados.deps.json
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\bin\Debug\netcoreapp2.1\APIAcessoDados.dll
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\obj\Debug\netcoreapp2.1\APIAcessoDados.csprojAssemblyReference.cache
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\obj\Debug\netcoreapp2.1\APIAcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\obj\Debug\netcoreapp2.1\APIAcessoDados.AssemblyInfoInputs.cache
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\obj\Debug\netcoreapp2.1\APIAcessoDados.AssemblyInfo.cs
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\bin\Debug\netcoreapp2.1\APIAcessoDados.pdb
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\obj\Debug\netcoreapp2.1\APIAcessoDados.dll
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\obj\Debug\netcoreapp2.1\APIAcessoDados.pdb
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\bin\Debug\netcoreapp2.1\APIAcessoDados.runtimeconfig.json
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\bin\Debug\netcoreapp2.1\APIAcessoDados.runtimeconfig.dev.json
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lugan\Desktop\Web API\APIAcessoDados\obj\Debug\netcoreapp2.1\APIAcessoDados.csproj.CopyComplete

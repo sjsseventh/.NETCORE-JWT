@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="M:API.Controllers.ProdutoController.Post(APIAcessoDados.ModelView.ProdutoModelView)">
+            <summary>
+            Adiciona Produto
+            </summary>
+            <param name="temperatura">Temperatura em Fahrenheit</param>
+            <returns>Objeto contendo valores para uma temperatura
+            nas escalas Fahrenheit, Celsius e Kelvin.</returns>
+        </member>
+    </members>
+</doc>

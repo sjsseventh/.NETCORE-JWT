@@ -1,0 +1,14 @@
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\bin\Debug\netcoreapp2.1\APIRegrasNegocio.deps.json
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\bin\Debug\netcoreapp2.1\APIRegrasNegocio.dll
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\bin\Debug\netcoreapp2.1\APIRegrasNegocio.pdb
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\bin\Debug\netcoreapp2.1\APIAcessoDados.dll
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\bin\Debug\netcoreapp2.1\APIAcessoDados.pdb
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\obj\Debug\netcoreapp2.1\APIRegrasNegocio.csprojAssemblyReference.cache
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\obj\Debug\netcoreapp2.1\APIRegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\obj\Debug\netcoreapp2.1\APIRegrasNegocio.AssemblyInfoInputs.cache
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\obj\Debug\netcoreapp2.1\APIRegrasNegocio.AssemblyInfo.cs
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\obj\Debug\netcoreapp2.1\APIRegrasNegocio.csproj.CopyComplete
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\obj\Debug\netcoreapp2.1\APIRegrasNegocio.dll
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\obj\Debug\netcoreapp2.1\APIRegrasNegocio.pdb
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lugan\Desktop\Web API\APIRegrasNegocio\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.xml
