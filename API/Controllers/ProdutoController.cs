@@ -14,12 +14,6 @@ namespace API.Controllers
     {
         ProdutoBll _produtoBll = new ProdutoBll();
 
-        /// <summary>
-        /// Adiciona Produto
-        /// </summary>
-        /// <param name="temperatura">Temperatura em Fahrenheit</param>
-        /// <returns>Objeto contendo valores para uma temperatura
-        /// nas escalas Fahrenheit, Celsius e Kelvin.</returns>
         [Route("~/api/Produto/Adicionar")]
         [Authorize("Bearer")]
         [HttpPost]
